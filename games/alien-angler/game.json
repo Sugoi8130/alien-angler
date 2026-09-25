@@ -1,0 +1,12 @@
+{
+  "name": "Alien Angler",
+  "consumable": "Signal Charge",
+  "price": "1000000000000000000",
+  "outcomes": [
+    { "name": "Nebula Glorp", "chanceBps": 5000, "reward": "200000000000000000" },
+    { "name": "Orbit Jelly", "chanceBps": 3000, "reward": "500000000000000000" },
+    { "name": "Void Crab", "chanceBps": 1100, "reward": "1000000000000000000" },
+    { "name": "Comet Koi", "chanceBps": 600, "reward": "3000000000000000000" },
+    { "name": "Star Eater", "chanceBps": 300, "reward": "10000000000000000000" }
+  ]
+}
