@@ -7,7 +7,7 @@ variants and long-term mastery rewards.
 **Vibeathon category:** Economy Potential  
 **Builder:** [@Sugoi8130](https://github.com/Sugoi8130)  
 **Playable preview:** <https://sugoi8130.github.io/alien-angler/>  
-**Built with:** FriendSDK v0.1.2
+**Built with:** FriendSDK v0.1.3
 
 ![Alien Angler gameplay](screenshots/alien-angler-halo-iii.png)
 
@@ -73,6 +73,6 @@ milestones and known limitations are documented in
 ## Credits
 
 Friend identity, wallet selection, canonical Friend sprites, runtime UI and
-sound utilities come from [FriendSDK v0.1.2](https://github.com/spokesz/friendsdk),
+sound utilities come from [FriendSDK v0.1.3](https://github.com/spokesz/friendsdk),
 licensed under Apache-2.0. Alien, UFO, galaxy-pool and interface artwork was
 created specifically for Alien Angler.

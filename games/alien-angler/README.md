@@ -6,7 +6,7 @@ signal line into a cosmic pool. The demo contains five catchable alien species.
 
 ## Run
 
-From the FriendSDK v0.1.2 repository root:
+From the FriendSDK v0.1.3 repository root:
 
 ```sh
 npm ci
@@ -54,7 +54,7 @@ all six slots, unlocked pixel models, individual catch counts, and hidden
 fishing phase until it is closed. Variants change the pixel model and reveal treatment only. They do
 not alter RF, Stardust, Pool XP, or species catch odds.
 
-Reloading resets the demo because FriendSDK v0.1.2 does not supply persistent
+Reloading resets the demo because FriendSDK v0.1.3 does not supply persistent
 save storage. Sound begins muted, reduced motion is supported, and the loop pauses
 while the trusted FriendSDK menu is open.
 
@@ -169,7 +169,7 @@ Signal has been claimed.
 
 ## SDK and economy scope
 
-FriendSDK v0.1.2 provides wallet connection, Friend selection, fresh ownership
+FriendSDK v0.1.3 provides wallet connection, Friend selection, fresh ownership
 checks, canonical Friend artwork, the sandbox and initial session read. This demo
 does not call `buy`, `play`, `settle` or `redeem`; all catches are local and have
 no RF value. `game.json` is a schema-compatible placeholder required by the
